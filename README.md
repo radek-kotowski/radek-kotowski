@@ -24,9 +24,9 @@ me.say_hi()
 
 ### 📝 about
 
-- LinkedIn: https://www.linkedin.com/in/radoslawkotowski/
-- AngelList: https://angel.co/u/radoslaw-kotowski
+<a href="https://www.linkedin.com/in/radoslawkotowski/"><img width="22px" valign="top" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg"/></a>&nbsp; LinkedIn: https://www.linkedin.com/in/radoslawkotowski/
 
+<a href="https://angel.co/u/radoslaw-kotowski/"><img width="22px" valign="top" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/angellist.svg"/></a>&nbsp; AngelList: https://angel.co/u/radoslaw-kotowski/
 
 ### 🔧 tech & tools
 
