@@ -28,10 +28,7 @@ me.say_hi()
 
 <a href="https://angel.co/u/radek-kotowski/"><img width="22px" valign="top" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/angellist.svg"/></a>&nbsp; AngelList: https://angel.co/u/radek-kotowski/
 
-<iframe src="https://docs.google.com/gview?url=https://github.com/radek-kotowski/radek-kotowski/raw/main/resume.pdf&embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
-  </body>
-</html>
-
+<a href="https://docs.google.com/gview?url=https://github.com/radek-kotowski/radek-kotowski/raw/main/resume.pdf&embedded=true"><img width="22px" valign="top" src="https://edent.github.io/SuperTinyIcons/images/svg/pdf.svg"/></a>&nbsp; Resume
 
 ### 🔧 tech & tools
 
