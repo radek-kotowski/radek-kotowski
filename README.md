@@ -28,8 +28,6 @@ me.say_hi()
 
 <a href="https://angel.co/u/radek-kotowski/"><img width="22px" valign="top" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/angellist.svg"/></a>&nbsp; AngelList: https://angel.co/u/radek-kotowski/
 
-<a href="https://docs.google.com/gview?url=https://github.com/radek-kotowski/radek-kotowski/raw/main/resume.pdf&embedded=true"><img width="22px" valign="top" src="https://edent.github.io/SuperTinyIcons/images/svg/pdf.svg"/></a>&nbsp; Resume
-
 ### 🔧 tech & tools
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
