@@ -1,4 +1,4 @@
-### hello there 👋
+### 👋 hello there
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=radek-kotowski.visitor-badge)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
@@ -27,6 +27,13 @@ me.say_hi()
 <a href="https://www.linkedin.com/in/radoslawkotowski/"><img width="22px" valign="top" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg"/></a>&nbsp; LinkedIn: https://www.linkedin.com/in/radoslawkotowski/
 
 <a href="https://angel.co/u/radek-kotowski/"><img width="22px" valign="top" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/angellist.svg"/></a>&nbsp; wellfound: https://angel.co/u/radek-kotowski/
+
+### 🎢 startups
+
+I enjoy startup roller coaster rides:
+
+* From early employee to <a href="https://www.linkedin.com/posts/radoslawkotowski_slightly-overdue-since-the-ipo-was-in-dec-activity-6773637714366513152-aNei">$3.5 billion IPO</a>
+* From early employee to <a href="https://www.reuters.com/markets/currencies/crypto-firm-21co-raises-25-million-value-it-2-billion-2022-09-06/">$2 billion 🦄</a>
 
 ### 🔧 tech & tools
 
