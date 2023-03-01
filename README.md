@@ -32,7 +32,7 @@ me.say_hi()
 
 I enjoy startup roller coaster rides:
 
-* From early employee to <a href="https://www.linkedin.com/posts/radoslawkotowski_slightly-overdue-since-the-ipo-was-in-dec-activity-6773637714366513152-aNei">$3.5 billion IPO</a>
+* From early employee to <a href="https://www.linkedin.com/posts/radek-kotowski_slightly-overdue-since-the-ipo-was-in-dec-activity-6773637714366513152-68wK">$3.5 billion IPO</a>
 * From early employee to <a href="https://www.reuters.com/markets/currencies/crypto-firm-21co-raises-25-million-value-it-2-billion-2022-09-06/">$2 billion 🦄</a>
 
 ### 🔧 tech & tools
