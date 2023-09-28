@@ -25,8 +25,7 @@ me.say_hi()
 
 <a href="https://www.linkedin.com/in/radek-kotowski/"><img width="22px" valign="top" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg"/></a>&nbsp; LinkedIn: https://www.linkedin.com/in/radek-kotowski/
 
-<a href="https://angel.co/u/radek-kotowski/"><img width="22px" valign="top" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/angellist.svg"/></a>&nbsp; wellfound: https://angel.co/u/radek-kotowski/
-
+<a href="https://wellfound.com/u/radek-kotowski"><img width="22px" valign="top" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/angellist.svg"/></a>&nbsp; wellfound: https://wellfound.com/u/radek-kotowski
 ### 🎢 startups
 
 I enjoy startup roller coaster rides:
